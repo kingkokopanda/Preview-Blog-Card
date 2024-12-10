@@ -50,7 +50,7 @@ Users should be able to:
 
 Through this project, I learned how to implement the **hover** feature in CSS, which enhanced the interactivity of links by enabling dynamic visual feedback when the user interacts with them. This allowed me to create a more engaging user experience. Additionally, I utilized **drop-shadow** effects to add depth to elements, making the design visually stand out and creating a more polished and modern look on the page. These techniques helped improve both the aesthetics and usability of the interface.
 
-To see how you can add code snippets, see below:
+Snippets:
 
 ```css
 .blog-post-title:hover{
