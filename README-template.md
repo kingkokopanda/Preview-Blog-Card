@@ -1,6 +1,6 @@
 # Frontend Mentor - Blog preview card solution
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges helps me improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Kokopanda Preview Blog Card](https://github.com/kingkokopanda/Preview-Blog-Card)
+- Live Site URL: [Blog Preview Component](https://kingkokopanda.github.io/Preview-Blog-Card/)
 
 ## My process
 
@@ -72,13 +72,10 @@ To see how you can add code snippets, see below:
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+As a frontend developer, I am keen to deepen my understanding of various **CSS styling methodologies** and techniques to enhance the maintainability, scalability, and performance of my projects. I want to explore advanced CSS concepts such as **CSS Grid**, **Flexbox**, **Custom Properties (CSS Variables)**, and **CSS Preprocessors** like **Sass** or **LESS** to streamline the styling process and create more modular and reusable code. Additionally, I'm interested in learning about **responsive design principles**, including **media queries**, to ensure consistent user experiences across different devices. Exploring **CSS frameworks** like **Bootstrap** and **Tailwind CSS**, along with **BEM (Block Element Modifier)** methodology for naming conventions, will also help improve the consistency and efficiency of my workflow.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Kingkokopanda Github](https://github.com/kingkokopanda/Preview-Blog-Card)
+- Frontend Mentor - [@kingkokopanda](https://www.frontendmentor.io/profile/kingkokopanda)
 
