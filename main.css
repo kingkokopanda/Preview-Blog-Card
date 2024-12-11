@@ -7,6 +7,10 @@
     
     body{
         background-color: #f4D04e;
+            display: flex;
+    justify-content: center;
+    align-items:  center;
+    min-height: 100vh;
     }
     
     a{
@@ -22,7 +26,7 @@
         border: 1px solid black;
         box-shadow: 8px 8px 0px 0px #000;
         padding: 1.2rem;
-        margin: 1rem auto;
+        margin: auto;
     }
     
     .preview-card-img{
